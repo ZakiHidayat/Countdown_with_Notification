@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Timer with Notification</string>
+    <string name="time_reamining">Time Remaining : %d</string>
+</resources>
